@@ -1,0 +1,13 @@
+{
+    "id": "Internet",
+    "name": "The Internet Mod",
+    "version": "0.0.1",
+    "author": "Chizbejoe",
+    "url": "http://forum.greenheartgames.com/",
+    "description": "Internet Mod",
+    "main": "./script2.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x"
+    },
+    "image": "gdtmp-Thumbnail.png"
+}
